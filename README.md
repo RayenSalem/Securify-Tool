@@ -1,5 +1,7 @@
 <h1>🚀 Securify – A Comprehensive Cybersecurity Tool 🚀</h1>
+
 ![Securify Image](./banner.png)
+
 <p>Welcome to <strong>Securify</strong>, a project I developed as part of my academic work. Securify is designed to enhance system security through rigorous testing and detailed reporting. Here's a closer look at what Securify offers:</p>
 
 <h2>🔒 Key Features:</h2>
